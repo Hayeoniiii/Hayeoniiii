@@ -8,9 +8,13 @@
 
 ---
 
-### Experience
+### Education
 - Hongik University, B.S. in Computer Engineering (Mar. 2024 – Present)
 - Baekseok University, B.S. in Computer Engineering – AI Major (2021 – 2022)
+
+---
+
+### Experience 
 - TAVE 15th - Deep Learning Part(2025)
 - gdsc hongik (2024)
 
