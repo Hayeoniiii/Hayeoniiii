@@ -10,24 +10,24 @@
 
 ### Education
 - Hongik University, B.S. in Computer Engineering (Mar. 2024 – Present)
-- Baekseok University, B.S. in Computer Engineering – AI Major (2021 – 2022)
+- Baekseok University, B.S. in Computer Engineering – AI Major (Mar. 2021 – Dec. 2023)
 
 ---
 
 ### Experience 
-- TAVE 15th - Deep Learning Part(2025)
-- gdsc hongik (2024)
+- TAVE 15th - Deep Learning Part(Mar. 2025 - Present)
+- gdsc hongik (Sep. 2024 - Dec. 2024)
 
 ---
 
 ### Projects
-- 🖼️ Text-to-Image Logo Generation Model (2025 - Present)  
+- 🖼️ Text-to-Image Logo Generation Model (Feb. 2025 - Present)  
   A generative model that creates logos from text prompts using diffusion-based techniques.
 
-- 📅 Shift Schedule OCR Recognition System (2025)  
+- 📅 Shift Schedule OCR Recognition System (Mar. 2025 - Aug. 2025)  
   An OCR system for extracting and organizing shift schedules from table images.
 
-- 🍄 Poisonous Mushroom Classification (2024)  
+- 🍄 Poisonous Mushroom Classification (Sep. 2024 - Dec. 2024)  
   Conducted data preprocessing and analysis for a binary classifier to detect toxic mushrooms.
 
 ---
