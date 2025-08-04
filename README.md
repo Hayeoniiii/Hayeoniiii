@@ -6,19 +6,18 @@
 ![JAVA](https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)  
 
----
+##
 
 ### Education
-- Hongik University, B.S. in Computer Engineering (Mar. 2024 – Present)
-- Baekseok University, B.S. in Computer Engineering – AI Major (Mar. 2021 – Dec. 2023)
+- Hongik University, B.S. in Computer Engineering 
 
----
+##
 
 ### Experience 
 - TAVE 15th - Deep Learning Part(Mar. 2025 - Present)
 - gdsc hongik (Sep. 2024 - Dec. 2024)
 
----
+##
 
 ### Projects
 - 🖼️ Text-to-Image Logo Generation Model (Feb. 2025 - Present)  
@@ -30,7 +29,7 @@
 - 🍄 Poisonous Mushroom Classification (Sep. 2024 - Dec. 2024)  
   Conducted data preprocessing and analysis for a binary classifier to detect toxic mushrooms.
 
----
+##
 
 ### Links
 - Tistory: <https://csecoco.tistory.com/>
