@@ -20,11 +20,12 @@
 ##
 
 ### Projects
-- 🖼️ Text-to-Image Logo Generation Model (Feb. 2025 - Present)  
-  A generative model that creates logos from text prompts using diffusion-based techniques.
 
-- 📅 Shift Schedule OCR Recognition System (Mar. 2025 - Aug. 2025)  
+- 📅 Shift Schedule OCR Recognition System (Mar. 2025 - Present)  
   An OCR system for extracting and organizing shift schedules from table images.
+  
+- 🖼️ Text-to-Image Logo Generation Model (Feb. 2025 - Aug.2025)  
+  A generative model that creates logos from text prompts using diffusion-based techniques.
 
 - 🍄 Poisonous Mushroom Classification (Sep. 2024 - Dec. 2024)  
   Conducted data preprocessing and analysis for a binary classifier to detect toxic mushrooms.
